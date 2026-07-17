@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01_MainSubjests/01_MainSubjects.csproj" />
+  <Project Path="02_Variables/02_Variables.csproj" Id="ef7a9438-a2d9-4287-958d-6a4545085d8d" />
+  <Project Path="03_LearnIfElse/03_LearnIfElse.csproj" Id="369fd2ad-eb12-4076-9595-ca4af9d81841" />
+  <Project Path="04_Switchcase/04_SwitchCase.csproj" Id="1f05122e-5152-4402-b567-1500e2a1f492" />
+  <Project Path="05_LearnLoops/05_LearnLoops.csproj" Id="67900e50-a315-4f3d-a42f-257b1b3bed19" />
+  <Project Path="06_LoopExamples/06_LoopExamples.csproj" Id="f858d0c3-f9d0-41c0-a2d0-207d61418c10" />
+  <Project Path="07_LearnForeach/07_LearnForeach.csproj" Id="1df3cc04-5498-43fc-a70a-db5e3b2725d4" />
+  <Project Path="08_LearnMethods/08_LearnMethods.csproj" Id="844cb605-1203-4ec7-95d6-d292e918e878" />
+  <Project Path="09_LearnDatabase/09_LearnDatabase.csproj" Id="5c90040f-ff60-43ca-bb2d-cc5d1475e2d0" />
+</Solution>
