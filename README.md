@@ -5,14 +5,23 @@ This repository contains the projects I created while learning and practicing th
 📂 Project Content (Modules)
 
 The following topics are divided into separate projects as folders:
+
 01_MainSubjects: C# fundamentals, console output operations, and general project structure.
+
 02_Variables: Data types (int, string, double, char, etc.) and variable declarations.
+
 03_LearnIfElse: Decision structures, if-else blocks, and logical operators.
+
 04_SwitchCase: Switch-case control structure and menu/state management.
+
 05_LearnLoops: Basic loop structures like For and While.
+
 06_LoopExamples: Practical usage examples of loops and basic algorithms.
+
 07_LearnForeach: Foreach loop for iterating over collections and arrays.
+
 08_LearnMethods: Creating methods (functions) to prevent code repetition, parameters, and return types.
+
 
 🛠️ Technologies Used
 
