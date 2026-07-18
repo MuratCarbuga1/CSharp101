@@ -7,5 +7,4 @@
   <Project Path="06_LoopExamples/06_LoopExamples.csproj" Id="f858d0c3-f9d0-41c0-a2d0-207d61418c10" />
   <Project Path="07_LearnForeach/07_LearnForeach.csproj" Id="1df3cc04-5498-43fc-a70a-db5e3b2725d4" />
   <Project Path="08_LearnMethods/08_LearnMethods.csproj" Id="844cb605-1203-4ec7-95d6-d292e918e878" />
-  <Project Path="09_LearnDatabase/09_LearnDatabase.csproj" Id="5c90040f-ff60-43ca-bb2d-cc5d1475e2d0" />
 </Solution>
